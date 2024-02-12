@@ -1,8 +1,7 @@
-# Hola 👋  
-- 😊 soy Patricia Díaz 
-- ⭐️ Analista de datos, y como buena data analyst estoy obsesionada por descubrir las historias que nos tienen para contar, y claro contarlas yo al mundo.  
-- 🌱 Estoy en constante crecimiento y aprendizaje #Restlesslearner
-- 📊🐶🌊 Quieres hablar sobre datos, perros o el mar? buscame en https://www.linkedin.com/in/j-patricia-diaz-r/ o en jpdiaz.111@gmail.com
+# Hola 👋 
+Soy Patricia Díaz, Analista de Datos y estoy obsesionada con descubrir y contar las historias que los datos tienen para ofrecernos. 
+🌱 Siempre estoy en busca de nuevos aprendizajes y crecimiento.  #Restlesslearner
+¿Quieres hablar sobre datos, perros o el mar?. Encuéntrame en LinkedIn (https://www.linkedin.com/in/j-patricia-diaz-r/) o contáctame por correo electrónico en jpdiaz.111@gmail.com! Estaré encantada de conectarme contigo. 📊🐶🌊
 
 <!---
 JPatoDiaz/JPatoDiaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
